@@ -94,7 +94,13 @@ class SummaryReport(Report):
 
         self.summarize_people()
         self.summarize_families()
+        self.summarize_events()
+        self.summarize_places()
+        self.summarize_sources()
+        self.summarize_citations()
+        self.summarize_repositories()
         self.summarize_media()
+        self.summarize_notes()
 
     def summarize_people(self):
         """
@@ -231,7 +237,7 @@ class SummaryReport(Report):
 
     def summarize_places(self):
         """
-        Write a summary of all the families in the database.
+        Write a summary of all the places in the database.
         """
         self.doc.start_paragraph("SR-Heading")
         self.doc.write_text(self._("Place Information"))
@@ -327,6 +333,19 @@ class SummaryReport(Report):
                 self.doc.start_paragraph("SR-Normal")
                 self.doc.write_text(media_path)
                 self.doc.end_paragraph()
+
+    def summarize_notes(self):
+        """
+        Write a summary of all the notes in the database.
+        """
+        self.doc.start_paragraph("SR-Heading")
+        self.doc.write_text(self._("Note Information"))
+        self.doc.end_paragraph()
+
+        self.doc.start_paragraph("SR-Normal")
+        self.doc.write_text(self._("Number of notes: %d"
+                                  ) % self.__db.get_number_of_notes())
+        self.doc.end_paragraph()
 
 #------------------------------------------------------------------------
 #
