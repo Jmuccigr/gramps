@@ -35433,7 +35433,7 @@ msgstr "Reordigas la Gramps-ID'ojn laŭ la defaŭltaj reguloj de GRAMPS."
 
 #: ../gramps/plugins/tool/tools.gpr.py:398
 #: ../gramps/plugins/tool/tools.gpr.py:399
-msgid "Sorts events"
+msgid "Sort events"
 msgstr "Ordigas eventojn"
 
 #: ../gramps/plugins/tool/tools.gpr.py:420

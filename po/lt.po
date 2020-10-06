@@ -35523,7 +35523,7 @@ msgstr "Perrūšiuoti Gramps ID pagal Gramps numatytąsias taisykles."
 
 #: ../gramps/plugins/tool/tools.gpr.py:398
 #: ../gramps/plugins/tool/tools.gpr.py:399
-msgid "Sorts events"
+msgid "Sort events"
 msgstr "Rūšiuoja įvykius"
 
 #: ../gramps/plugins/tool/tools.gpr.py:420

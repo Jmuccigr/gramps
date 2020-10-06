@@ -28804,7 +28804,7 @@ msgid "Reorders the Gramps IDs according to Gramps' default rules."
 msgstr "Sorterar om Gramps-ID:n efter Gramps standardregler."
 
 #: ../gramps/plugins/tool/tools.gpr.py:398 ../gramps/plugins/tool/tools.gpr.py:399
-msgid "Sorts events"
+msgid "Sort events"
 msgstr "Sorterar händelser"
 
 #: ../gramps/plugins/tool/tools.gpr.py:420

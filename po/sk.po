@@ -35401,7 +35401,7 @@ msgstr "Preskupuje ID grampsu podľa predvolených pravidiel grampsu."
 
 #: ../gramps/plugins/tool/tools.gpr.py:398
 #: ../gramps/plugins/tool/tools.gpr.py:399
-msgid "Sorts events"
+msgid "Sort events"
 msgstr "Usporiada udalosti"
 
 #: ../gramps/plugins/tool/tools.gpr.py:420

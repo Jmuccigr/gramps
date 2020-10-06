@@ -35429,7 +35429,7 @@ msgstr "Preuredi številke Gramps ID po privzetih pravilih Grampsa."
 
 #: ../gramps/plugins/tool/tools.gpr.py:398
 #: ../gramps/plugins/tool/tools.gpr.py:399
-msgid "Sorts events"
+msgid "Sort events"
 msgstr "Razvrsti dogodke"
 
 #: ../gramps/plugins/tool/tools.gpr.py:420

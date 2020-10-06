@@ -37874,7 +37874,7 @@ msgstr "Réorganise les identifiants Gramps en fonction des règles par défaut.
 # nom de l'outil
 #: ../gramps/plugins/tool/tools.gpr.py:398
 #: ../gramps/plugins/tool/tools.gpr.py:399
-msgid "Sorts events"
+msgid "Sort events"
 msgstr "Trier les événements"
 
 #: ../gramps/plugins/tool/tools.gpr.py:420

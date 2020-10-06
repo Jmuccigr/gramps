@@ -35556,7 +35556,7 @@ msgstr "Reordena os IDs do Gramps de acordo com as regras pré-definidas."
 
 #: ../gramps/plugins/tool/tools.gpr.py:398
 #: ../gramps/plugins/tool/tools.gpr.py:399
-msgid "Sorts events"
+msgid "Sort events"
 msgstr "Ordenar os eventos"
 
 #: ../gramps/plugins/tool/tools.gpr.py:420

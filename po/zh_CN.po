@@ -35238,7 +35238,7 @@ msgstr "根据 Gramps 的默认规则，重新整理 Gramps ID 编号。"
 
 #: ../gramps/plugins/tool/tools.gpr.py:398
 #: ../gramps/plugins/tool/tools.gpr.py:399
-msgid "Sorts events"
+msgid "Sort events"
 msgstr "排列事件"
 
 #: ../gramps/plugins/tool/tools.gpr.py:420

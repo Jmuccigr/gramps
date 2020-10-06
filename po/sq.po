@@ -36425,7 +36425,7 @@ msgstr "Rirradhit ID e gramps sipas rregullave të parazgjedhura të GRAMPS."
 #: ../gramps/plugins/tool/tools.gpr.py:398
 #: ../gramps/plugins/tool/tools.gpr.py:399
 #, fuzzy
-msgid "Sorts events"
+msgid "Sort events"
 msgstr "Ngjarje të rradhitura të %s"
 
 #: ../gramps/plugins/tool/tools.gpr.py:420
